@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Thu Oct 31 17:58:47 2024 as: /usr/lib/nmap/nmap --open -p- -sS --min-rate 5000 -n -Pn -oG allPorts 10.10.11.221
+Host: 10.10.11.221 ()	Status: Up
+Host: 10.10.11.221 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///	Ignored State: closed (65533)
+# Nmap done at Thu Oct 31 17:59:01 2024 -- 1 IP address (1 host up) scanned in 13.70 seconds
